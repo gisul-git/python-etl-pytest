@@ -1,0 +1,12 @@
+terminals:
+  - echo "Welcome to the Python ETL Lab"
+  - echo "Edit script.py and click Run Tests"
+
+tabs:
+  - script.py
+  - sales.csv
+  - config.yaml
+  - README.md
+
+playground-view: terminal-editor
+run-button: python3 $$file
