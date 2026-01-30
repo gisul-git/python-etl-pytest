@@ -1,0 +1,4 @@
+order_id,customer,items,price
+1,Alice,"apple,banana",100
+2,Bob,"banana",200
+3,Alice,"apple",150
